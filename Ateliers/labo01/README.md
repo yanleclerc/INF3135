@@ -2,4 +2,7 @@
 
 Auteur : Yan-Alexandre Leclerc
 
-TODO
+Cet atelier est un petit rappel sur la matiere vue en INF1070.
+
+Plusieurs petites operations en ligne de commande dans un environnement GNU y sont demandees. 
+

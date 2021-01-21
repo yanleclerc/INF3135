@@ -20,7 +20,7 @@ Oui. Il est possible de changer les valeurs RGB selon notre humeur du jour egale
 
 #### Question 4
 
-Les changements se font automatiquements apres les modifications du profil bash grace au script `couleurs.sh` .
+Les changements se font automatiquements apres la commande `$ source ~/.bash_profile` .
 
 #### Question 5
 
